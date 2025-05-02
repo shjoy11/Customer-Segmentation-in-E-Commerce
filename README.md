@@ -52,7 +52,7 @@ CustomerSegmentAI360/
 See [CustomerProject_VersionControlLog.csv](./CustomerProject_VersionControlLog.csv)
 
 ##  Author
-- Name: [Your Name]
-- University: [Your University]
-- Supervisor: [Supervisor Name]
+- Name: Shahadat Hossain Joy
+- University: University of Roehampton
+- Supervisor: Mohammed Farhan Khan
 - Year: 2025
